@@ -69,7 +69,7 @@
   }
   .nav-container .nav-link.active,
   .nav-container .nav-link:hover {
-    background: var(--clr-white-light);
+    background: var(--clr-blue-light);
     color: var(--clr-black);
   }
   .nav-container .nav-social-links-main {
